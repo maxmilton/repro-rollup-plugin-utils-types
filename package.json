@@ -1,0 +1,15 @@
+{
+  "name": "repro-rollup-plugin-utils-types",
+  "version": "0.0.0",
+  "repository": "https://github.com/MaxMilton/repro-rollup-plugin-utils-types",
+  "author": "Max Milton <max@wearegenki.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc index.ts"
+  },
+  "dependencies": {
+    "@rollup/pluginutils": "3.0.5",
+    "rollup": "1.29.1",
+    "typescript": "3.7.5"
+  }
+}
